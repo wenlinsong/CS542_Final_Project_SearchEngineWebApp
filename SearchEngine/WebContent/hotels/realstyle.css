@@ -1,0 +1,143 @@
+@CHARSET "GB18030";
+body {
+	padding:0; 
+	margin:0; 
+	background:#0;
+	font-family: arial;
+}
+
+
+header {
+	
+	background:  white;
+	color: black;
+	padding: 50px 15px 30 20px;
+}
+
+
+header h1 {
+	font-family: Papyrus, fantasy;;
+	font-size:36px;
+	display: inline;
+	margin: 0;
+	padding: 0;
+
+	
+	
+}
+
+nav ul {
+		display: inline;
+		margin: 0;
+		padding: 0 0 0 0px;
+		
+
+}
+
+nav ul li{
+	display: inline-block;
+	list-style-type: none;
+	background:white;
+	font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;	
+	color: white;
+	font-size: 18px;
+	padding: 5px 15px;
+}
+
+
+nav ul li a{
+	color: #6A08A3; 
+	text-decoration: none;
+}
+
+
+div {
+	margin: 10p;
+	padding: 5px;
+	background: #666;
+	color: white;
+	
+}
+
+
+table, tr, td{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+.bodyimage {
+	margin: 0px;
+	padding: 1px;
+	background: url("./images/ny1.jpg")  ;
+	width: 100%;
+	
+	
+}
+
+
+.secondLayer{
+	background: black ;
+	opacity:0.4;
+	
+	margin: 80px 50px;
+	padding: 100px;
+	
+	
+}
+
+
+.w{
+	margin: 0px;
+	padding: 0px;
+	font-size: 20px;
+	width: 200px;
+}
+
+
+.slt{ 
+	margin: 0px;
+	padding: 0px;
+	width:200px; height:33px; color:black; font-size:18px; font-family:Tahoma; background:#B9A5F2;
+}
+
+
+
+input{
+	font-size:20px;
+	font-family: arial;
+}
+
+
+
+
+.resultDIV{
+ 
+ 	background: white;
+ 	width: 1335px;
+ 	height: 325px;
+ 	
+ 
+ } 
+
+
+.resuiltPC{
+	margin: 0px;
+	
+}
+
+.resultTD{
+	color : black;
+	height:300px;
+	padding: 10px;
+	margin: 0px;
+	
+}
+
+.hotelName{
+	font-size: 24px;
+	font-family: arial;
+	color:#6A08A3;
+}
+
